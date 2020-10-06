@@ -43,10 +43,10 @@ while True:
         while True:
             for i in range(1):
                 ran = random.choices(country)
-                os.system(f"nordvpn connect {ran}")
-                time.sleep(20)
+                os.system(f"nordvpn connect {''.join(ran)}")
                 for i in range(20):
                     print(i)
+                    time.sleep(1)
                     
     elif(ui == "help"):
         print("""
