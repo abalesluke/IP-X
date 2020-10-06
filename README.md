@@ -17,7 +17,7 @@
 # then login your nordvpn account
 # then run the tool again :) enjoy!
 #
-#=======[ NordVpn installation in linux Instructions]===========
+# =======[ NordVpn installation in linux Instructions]===========
 #
 # Go to nordvpn official site for instructions!
 #   or just click the link below! 
