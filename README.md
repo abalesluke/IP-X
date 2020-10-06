@@ -4,11 +4,11 @@
 # =======[Installation]================
 # 
 # =====linux=================
-# apt update && upgrade
-# apt install git
-# pip install colorama
-# pip3 install colorama
-# apt install python3
+# sudo apt update && upgrade
+# sudo apt install git
+# sudo pip install colorama
+# sudo pip3 install colorama
+# sudo apt install python3
 # git clone https://github.com/abalesluke/IP-X
 # cd IP-X
 # python3 ipx.py
@@ -17,14 +17,11 @@
 # then login your nordvpn account
 # then run the tool again :) enjoy!
 #
+#=======[ NordVpn installation in linux Instructions]===========
 #
-# ██╗██████╗      ██╗  ██╗
-# ██║██╔══██╗     ╚██╗██╔╝
-# ██║██████╔╝█████╗╚███╔╝ 
-# ██║██╔═══╝ ╚════╝██╔██╗ 
-# ██║██║          ██╔╝ ██╗
-# ╚═╝╚═╝          ╚═╝  ╚═╝                      
+# Go to nordvpn official site for instructions!
+#   or just click the link below! 
 #
-#
+#   LINK ==>>   https://nordvpn.com/download/linux/#install-instructions
 #
 #
