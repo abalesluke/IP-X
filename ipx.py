@@ -47,7 +47,9 @@ while True:
                 for i in range(20):
                     print(i)
                     time.sleep(1)
-                    
+                os.system("clear")
+                          
+                          
     elif(ui == "help"):
         print("""
 =============================================
