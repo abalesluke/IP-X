@@ -1,7 +1,7 @@
 import os, sys, random, time, colorama
 from colorama import Fore
 
-version = "1.4"
+version = "1.5"
 country = ["Albania",",Greece","Portugal","Argentina","Hong_Kong"
 ,"Romania","Australia","Hungary","Serbia"
 ,"Austria","Iceland","Singapore","Belgium"
