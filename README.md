@@ -24,4 +24,7 @@
 #
 #   LINK ==>>   https://nordvpn.com/download/linux/#install-instructions
 #
-#
+# ==Dont have NordVpn account?===
+try purchasing cheap nordvpn accounts here
+https://www.buymeacoffee.com/AnikinLuke
+only cost 1$
