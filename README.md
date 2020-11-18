@@ -1,4 +1,4 @@
-# IP-X is a python tool for linux that changes your ip for every 20 seconds using nordvpn
+# IP-X is a python tool for linux that changes your ip for every 20 seconds powered with nordvpn
 # IP-X tool coded by: Anikin Luke
 #
 # =======[Installation]================
