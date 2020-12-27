@@ -1,5 +1,7 @@
-import os, sys, random, time, colorama
+import os, random, time, colorama
 from colorama import Fore
+
+os.system("pip3 install colorama")
 
 version = "1.5"
 country = ["Albania",",Greece","Portugal","Argentina","Hong_Kong"
